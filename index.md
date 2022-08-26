@@ -8,8 +8,32 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+[A Guide To Attracting Clients To Your Agency](https://www.smashingmagazine.com/2021/07/guide-attracting-clients-agency/)
 
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/0flO71FSsL5TLahfoXYT2G?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/y8OvnIhWD7U" title="Kandace Springs - Bamboo's Lament" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/2MNtOTfhYOxIw5xWEQHUvZ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1R28m5eWk1EV9FQ3puWrUp?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://wtf.tw/ref/robbins.pdf"><img src="https://undsgn.com/wp-content/uploads/2018/06/learning-web-design-4-ed-a-beginner-s-guide-to-html-css-original-imadvz97gqf3yfrh.jpg"></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://wtf.tw/ref/robbins.pdf"><img src="https://undsgn.com/wp-content/uploads/2018/06/learning-web-design-4-ed-a-beginner-s-guide-to-html-css-original-imadvz97gqf3yfrh.jpg"></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/19bQiwEKhXUBJWY6oV3KZk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/gSJeHDlhYls" title="Madvillain - All Caps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Jt_VlHftdUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9TYr1mCzMcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
