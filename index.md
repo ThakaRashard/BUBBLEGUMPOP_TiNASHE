@@ -10,8 +10,9 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 
-
+<img src="https://images.discotech.me/artists/4330/0678e807-8ba0-4278-ab1b-79108cf34019.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4ufZSKCI84Pd2ZlWTJcu4i?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [New Edition - If It Isn't Love (Official Music Video)](https://www.youtube.com/watch?v=ReI6gvzVP0Y)
 
 ## GRAPHiC_DESiGN_RESOURCES
