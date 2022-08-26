@@ -1,4 +1,9 @@
-
+ {% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################TiNASHE#########
+{% endhighlight %}
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
@@ -6,44 +11,8 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 
-## DEAR_CORAL
-
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4ufZSKCI84Pd2ZlWTJcu4i?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 [New Edition - If It Isn't Love (Official Music Video)](https://www.youtube.com/watch?v=ReI6gvzVP0Y)
-
-<img src="http://adb.arcadeitalia.net/media/mame.current/flyers/nibbler.png?release=205">
-<p class="codepen" data-height="300" data-theme-id="light" data-default-tab="html,result" data-slug-hash="zYWXBKW" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/zYWXBKW">
-  CodePen Home Learn CSS - Extrinsic sizing vs intrinsic sizing</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<img src="https://i.discogs.com/eNB-1tup96gNwkzmFMKNyPGP7ov5F0I8PTYa9wjw7JU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODcz/My0xMzI3MzYyMzM3/LmpwZWc.jpeg">
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/50nRFfP7eymMb2rfSffMr9?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-## First Track!!!
-Im digging through some books at Central Library and discovering a lot of [STELLAR_BLUE_NOTE_JAZZ_RECORDS](https://www.bluenote.com/)
-
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/jZayfhnaNk8" title="Baby Face Willette – Behind the 8 Ball  (1964)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/1kKp5dSbveAtH9KmuGP6z9?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-[You can configure your GitHub Pages site to publish](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/555176499&color=%23c6a296&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/caveman89" title="Caveman Music + Mixes" target="_blank" style="color: #cccccc; text-decoration: none;">Caveman Music + Mixes</a> · <a href="https://soundcloud.com/caveman89/vinroc-ed-swift-audio-animation-01_side_a" title="Vinroc &amp; Ed Swift Audio Animation 01_Side_A" target="_blank" style="color: #cccccc; text-decoration: none;">Vinroc &amp; Ed Swift Audio Animation 01_Side_A</a></div>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558569274&color=%23ecd63c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/caveman89" title="Caveman Music + Mixes" target="_blank" style="color: #cccccc; text-decoration: none;">Caveman Music + Mixes</a> · <a href="https://soundcloud.com/caveman89/vinroc-ed-swift-audio-animation-02_side_b" title="Vinroc &amp; Ed Swift Audio Animation 02_Side_B" target="_blank" style="color: #cccccc; text-decoration: none;">Vinroc &amp; Ed Swift Audio Animation 02_Side_B</a></div>
-<img src="https://cdn.shopify.com/s/files/1/0882/5118/products/Deltron-3030-Deltron-3030-Exclusive-Color-Vinyl-LP-2510853_1024x1024.jpg?v=1616681167">
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/995692936&color=%23ecd63c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/deltron-3030" title="Deltron 3030" target="_blank" style="color: #cccccc; text-decoration: none;">Deltron 3030</a> · <a href="https://soundcloud.com/deltron-3030/positive-contact-feat-dan-1" title="Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)" target="_blank" style="color: #cccccc; text-decoration: none;">Positive Contact (feat. Dan The Automator, Del The Funky Homosapien &amp; Kid Koala)</a></div>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/69492806&color=%23ecd63c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boldfriend" title="Bold Friendᵈᵇ" target="_blank" style="color: #cccccc; text-decoration: none;">Bold Friendᵈᵇ</a> · <a href="https://soundcloud.com/boldfriend/deltron-3030-upgrade-a-brymar" title="Deltron 3030-Upgrade (A Brymar College Course)" target="_blank" style="color: #cccccc; text-decoration: none;">Deltron 3030-Upgrade (A Brymar College Course)</a></div>
-<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/04uhhcjGVCHodMgZjXOlye?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/Y0loUMoz2ok" title="Say No To Strangers! (1963)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/9GTBMGUUz6I" title="Habit Patterns (1954)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[NASA_DOCS](https://ntrs.nasa.gov/api/citations/19760012966/downloads/19760012966.pdf)
-[NASA_DOCs](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
-<iframe width="100%" height="50%" src="https://www.youtube.com/embed/O-yiOxptejs" title="Table Manners (1947)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/p45T7U5oi9Q" title="The Dial Comes To Town" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### me & ya_Mamah act like dis...
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/3D_srHpH6jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## GRAPHiC_DESiGN_RESOURCES
 [Overcoming Imposter Syndrome By Developing Your Own Guiding Principles ::even4pplWHOknewUiNahPassLifetime](https://www.smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/)
@@ -144,9 +113,6 @@ A grid system provides an easy way for designers to structure and present conten
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/MwOzqLYM6S8" title="Monie Love - Monie in the Middle (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-<img src="https://www.typedifferent.com/fonts/bd_doomed/bd_doomed_example1.jpg">
-<img src="https://www.typedifferent.com/fonts/bd_doomed/bd_doomed_example2.jpg" >
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/Zi_XLOBDo_Y" title="Michael Jackson - Billie Jean (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
