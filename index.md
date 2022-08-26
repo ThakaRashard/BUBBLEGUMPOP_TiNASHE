@@ -8,6 +8,14 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9TYr1mCzMcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Build your own Linux operating system from source files using the Linux From Scratch book.
+In this series of videos I go through a step-by-step installation of Linux From Scratch 10.1. Each video follows each chapter in the [LFS 10.1 book.](https://www.linuxfromscratch.org/lfs/read.html)
+- [KERNOTEX COMPUTER_SCiENCE_TRAiNiNG_MATERiALS](https://www.youtube.com/c/Kernotex)
+[READ_LiNUX_FROM_SCRATCH_HERE_iN_HTML](https://www.linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.1-NOCHUNKS.html)
+### FLAUJA'E Can give you tips!
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/jfKfPfyJRdk" title="lofi hip hop radio - beats to relax/study to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="330" src="https://www.youtube.com/embed/9pZ2xmsSDdo" title="DevOps Roadmap 2022 - How to become a DevOps Engineer? What is DevOps?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/R8_veQiYBjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
