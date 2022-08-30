@@ -8,6 +8,17 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+## WHY_YALL_PROSTiTUTED??
+### And crossed me out, "CHICKEN"!?
+
+<a href="https://www.youtube.com/watch?v=tDQnHh-MK6o"><IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/VAYNE_WHY_YALL_PROSTiTUTED_MY_FAMILY_YOUR_REAL_NAME_JUSTIN_WHERE_IS_YOUR_GIRL_FRIEND_FROM_THOSE_ART_PARTIES_IN_ATLANTA_YOU_HATE_YOUR_SPOUSE_I_WANT_MY_BAD_CHICK_BIG_BOOTY_DANCE_STUDIO_HAREM_BACK_WHERE_IS_SARTU.PNG"></a>
+
+[Red Eye Mobb | Cleveland, Ohio - 2021 Meeting](https://www.youtube.com/watch?v=tM_iG1X02rA)
+
+<IMG src="https://files.nccih.nih.gov/cannabinoids-scientific-general-01-01.jpg">
+
+[Better Use Of Leisure Time (1950)](https://www.youtube.com/watch?v=BH_gncP_5vc)
+ 
 <img src="https://www.spitfirewheels.com/formulafour/img/radials-wheels.png">
 <iframe width="100%" height="488" src="https://www.youtube.com/embed/dKsvumrh4zg" title="Vintage Wagons | The Next Big Thing with Magnus Walker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://images.footlocker.com/is/image/EBFL2/S4292400_om1?wid=2000&hei=2000&fmt=png-alpha">
