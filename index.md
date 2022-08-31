@@ -8,6 +8,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<iframe width="100%" height="295" src="https://www.youtube.com/embed/Z5Ndys7Ygcc" title="Fire and Ice (1983) - Ralph Bakshi / Frank Frazetta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<IMG src="https://images.eil.com/large_image/FANTASIA_FREE%2BYOURSELF-470634.jpg">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/09akBiw2Divm9zvF7GMJup?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 ## WHY_YALL_PROSTiTUTED??
 ### And crossed me out, "CHICKEN"!?
 
